@@ -1,0 +1,11 @@
+.delete {
+  color: red;
+}
+.update-submit {
+  background-color: rgb(148, 197, 133) !important;
+  border-color: rgb(148, 197, 133) !important;
+}
+.cancel-submit {
+  background-color: rgb(128, 128, 128) !important;
+  border-color: rgb(128, 128, 128) !important;
+}
